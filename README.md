@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nomeena</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align ="right" alt = "coding img" width = "400px" src = "https://storage.googleapis.com/pai-images/fd3e07226c064dc4b34c8140022aff69.jpeg">
+<img align ="right" alt = "coding img" width = "400px" height = "350px" src = "https://storage.googleapis.com/pai-images/fd3e07226c064dc4b34c8140022aff69.jpeg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomeena22&label=Profile%20views&color=0e75b6&style=flat" alt="nomeena22" /> </p>
 
 - 🔭 I’m currently deploy projects **ecommerce website**
