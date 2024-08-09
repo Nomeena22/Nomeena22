@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently deploy projects **ecommerce website**
 
-- 🌱 I’m currently learning **framework, Typescript**
+- 🌱 I’m currently learning **frameworks & more**
 
 - 💬 Ask me about **JavaScript and react**
 
